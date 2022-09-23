@@ -1,9 +1,15 @@
-Testando Git
-commitando pelo editor
-teste git diff
-testando git commit --am "nome do arquivo"
-Aprendendi a enviar mudanca remota
-Testar se consigo clonar
-clonado com sucesso
-testando branch default
-testando push
+x = 13
+Y =12
+
+for (i=0; i<=6; i += 2) {
+x= funcaoA (x,i)
+y= funcaoB (y, i*2)
+
+console.log(++X, y++)}
+
+function funcaoB(variavel, valor) {
+return variavel += valor
+}
+
+function funcaoA(variavel, valor) {
+}return variavel -= valor
